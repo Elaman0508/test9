@@ -5,3 +5,10 @@ print(a + b)
 
 # Для теста 
 print('hi')
+
+
+def my():
+    return("1111")
+
+
+my()
