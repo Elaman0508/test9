@@ -11,4 +11,3 @@ for i in range(1,9):
         else:
             print("0", end=' ')
     print()
-    
